@@ -1,0 +1,16 @@
+{
+  "background_color": "#229ac8",
+  "description": "Td Bilişim",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "webapp/icon/tdbilisim.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Td Bilişim",
+  "short_name": "Td Bilişim",
+  "start_url": "."
+  
+}
